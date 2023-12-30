@@ -1,0 +1,6 @@
+[submodule "backend-nodejs"]
+	path = backend-nodejs
+	url = https://github.com/EmrysMz/BackEnd_Project.git
+[submodule "frontend-angular"]
+	path = frontend-angular
+	url = https://github.com/EmrysMz/FrontEnd_Project.git
