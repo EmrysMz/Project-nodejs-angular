@@ -1,5 +1,7 @@
 ﻿# Project-nodejs-angular
 
+# ( Open the BUILD.md file in the repository to know how to setup the application !!!) 
+
 ## Introduction
 
 Hello, this is our final project for the node & angular course at ESILV. Our project is named Cerebralize and it's a learning web application like Anki that gives the possibility to study flashcards already implemented or created by the user himself. It uses the time-spaced learning method to improve the learning process.
